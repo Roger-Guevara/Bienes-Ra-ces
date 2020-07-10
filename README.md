@@ -1,2 +1,2 @@
-# Bienes-Ra-ces
+# Bienes-Raíces
 Bienes Raíces Inversiones
